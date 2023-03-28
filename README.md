@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jihyun Yeom 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeomja99&show_icons=true&theme=vue)
 
