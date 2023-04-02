@@ -1,6 +1,6 @@
 ### Hi, I'm Jihyun Yeom 👋
 
-💻 I'm a AI researcher.
+💻 I'm a AI researcher.  
 🖼 I'm working on computer vision.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeomja99&show_icons=true&theme=vue)
